@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing and maintaining product features using Next.js, Flutter, and PHP as a Software Developer Intern at Store My Goods.👯 I’m looking to collaborate on: Open-source MERN stack projects or cross-platform mobile applications built with React Native.🤝 I’m looking for help with: Advanced Performance Optimization techniques and scaling Redis implementations for high-traffic applications.🌱 I’m currently learning: Deepening my expertise in Docker and exploring more complex Machine Learning integrations within web environments.💬 Ask me about: Android development, building real-time applications with Socket.io, and solving complex Data Structures and Algorithms problems.⚡ Fun fact: I have solved over 500+ problems on LeetCode and successfully published my own app, "A4," on the Google Play Store.
+🔭 I’m currently working on: Developing and maintaining product features using Next.js, Flutter, and PHP as a Software Developer Intern at Store My Goods.
+👯 I’m looking to collaborate on: Open-source MERN stack projects or cross-platform mobile applications built with React Native.
+🤝 I’m looking for help with: Advanced Performance Optimization techniques and scaling Redis implementations for high-traffic applications.
+🌱 I’m currently learning: Deepening my expertise in Docker and exploring more complex Machine Learning integrations within web environments.
+💬 Ask me about: Android development, building real-time applications with Socket.io, and solving complex Data Structures and Algorithms problems.
+⚡ Fun fact: I have solved over 500+ problems on LeetCode and successfully published my own app, "A4," on the Google Play Store.
 
 
 ## 🌐 Socials:
