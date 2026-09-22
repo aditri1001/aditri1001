@@ -1,4 +1,5 @@
-#  About Me:
+![Harry Potter](./harrypottergif.gif)
+
  I’m currently working on: Developing and maintaining product features using Next.js, Flutter, and PHP as a Software Developer Intern at Store My Goods.
  I’m looking to collaborate on: Open-source MERN stack projects or cross-platform mobile applications built with React Native.
  I’m looking for help with: Advanced Performance Optimization techniques and scaling Redis implementations for high-traffic applications.
